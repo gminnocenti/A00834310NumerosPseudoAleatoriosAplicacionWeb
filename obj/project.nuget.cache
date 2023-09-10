@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V3d3/CZ5crYdot0doCK+/9sFa2AKN6a/cCuOnY9ZcfBuH4+yfTZvYVQrCbcTlZ4A6JLeivkRIAekNwD3BcM71g==",
+  "success": true,
+  "projectFilePath": "/Users/gianmarcoinnocenti/RiderProjects/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/gianmarcoinnocenti/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
